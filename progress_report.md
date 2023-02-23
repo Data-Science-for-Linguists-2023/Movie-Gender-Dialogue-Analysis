@@ -4,7 +4,7 @@
 I initialized a git repo for my term project *Hollywood and Gender: A Quantitative Analysis of Movie Dialogues*. I laid out my project plan which summarizes the data, where they come from, and my initial plans for analysis. Placeholders for License information and a Readme were also created.
 
 ## 1st Progress Report 02/24/2023
-I have created the four main data frames based on the data from the Cornell corpus. Many of the data frames have references to other data frames so I will have to join them for the data frames to be fully comprehensible. The jupyter notebook for that is [here](Data_Object_Creation.ipynb.)
+I have created the four main data frames based on the data from the Cornell corpus. Many of the data frames have references to other data frames so I will have to join them for the data frames to be fully comprehensible. The jupyter notebook for that is [here](Data_Object_Creation.ipynb).
 
 Three of the four dfs had the error "invalid continuation type" which I was able to resolve by specifying the encoding as ISO-8859-1. Although my terminal indicated that most of the files were encoded with ASCII, the files are very long so the encoding issue may have been further in the file.
 
