@@ -9,8 +9,9 @@ This project will quantify how male and female characters are represented in the
 The data come from the [Cornell Movie-Dialogue Corpus](https://convokit.cornell.edu/documentation/movie.html) and can be found in this repo [here](./data). The corpus has a [README](./data/README.txt) to help understand its structure and contents.
 
 ## Directory
-My initial project plan can be found [here](./project_plan.md).
-
-My work on the corpora can be found [here](./Data_Object_Creation.ipynb).
-
-My progress can be found [here](./progress_report.md)
+* My initial project plan can be found [here](./project_plan.md).
+* My work on the movies can be found [here](./Movies_Notebook.ipynb).
+* My work on the characters can be found [here](./Characters_Notebook.ipynb).
+* My work on the utterances can be found [here](./Utterances_Notebook.ipynb).
+* My work on the dialogues can be found [here](./Dialogues_Notebook.ipynb).
+* My progress can be found [here](./progress_report.md).
