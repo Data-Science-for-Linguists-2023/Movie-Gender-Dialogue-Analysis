@@ -13,5 +13,5 @@ The data come from the [Cornell Movie-Dialogue Corpus](https://convokit.cornell.
 * My work on the movies can be found [here](./Movies_Notebook.ipynb).
 * My work on the characters can be found [here](./Characters_Notebook.ipynb).
 * My work on the utterances can be found [here](./Utterances_Notebook.ipynb).
-* My work on the dialogues can be found [here](./Dialogues_Notebook.ipynb).
+* My work on the dialogues can be found [here](./Conversations_Notebook.ipynb).
 * My progress can be found [here](./progress_report.md).
