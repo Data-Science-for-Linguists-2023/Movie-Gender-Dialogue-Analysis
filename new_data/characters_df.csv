@@ -32,7 +32,7 @@
 48,u48,VENDOR,m2,15 minutes,unknown,?
 49,u49,B20,m3,2001: a space odyssey,unknown,?
 51,u51,C12,m3,2001: a space odyssey,unknown,?
-52,u52,CHILD,m3,2001: a space odyssey,unknown,?
+52,u52,CHILD,m3,2001: a space odyssey,A,?
 53,u53,CO-PILOT,m3,2001: a space odyssey,unknown,?
 54,u54,ELENA,m3,2001: a space odyssey,F,?
 55,u55,FLOYD,m3,2001: a space odyssey,M,?
@@ -208,7 +208,7 @@
 285,u285,CHARLIE,m18,american madness,M,?
 289,u289,DUDE,m18,american madness,M,?
 290,u290,GARDINER,m18,american madness,M,?
-291,u291,GUARD,m18,american madness,unknown,?
+291,u291,GUARD,m18,american madness,A,?
 293,u293,HELEN'S VOICE,m18,american madness,unknown,?
 294,u294,INSPECTOR,m18,american madness,unknown,?
 295,u295,JANITOR,m18,american madness,unknown,?
@@ -260,7 +260,7 @@
 365,u365,COMMANDER GILMOUR,m22,austin powers: international man of mystery,unknown,?
 366,u366,DESTRUCTACON,m22,austin powers: international man of mystery,unknown,?
 368,u368,FRAU FARBISSINA,m22,austin powers: international man of mystery,F,?
-369,u369,GUARD,m22,austin powers: international man of mystery,unknown,?
+369,u369,GUARD,m22,austin powers: international man of mystery,A,?
 370,u370,MICK JAGGER,m22,austin powers: international man of mystery,unknown,?
 371,u371,MRS. KENSINGTON,m22,austin powers: international man of mystery,M,?
 372,u372,MUSTAFA,m22,austin powers: international man of mystery,M,?
@@ -337,7 +337,7 @@
 474,u474,SIR WILLIAM,m28,barry lyndon,M,?
 475,u475,VALDEZ,m28,barry lyndon,unknown,?
 476,u476,BARTENDER,m29,basic,unknown,?
-477,u477,CHILDS,m29,basic,unknown,?
+477,u477,CHILDS,m29,basic,A,?
 481,u481,MUELLER,m29,basic,unknown,?
 484,u484,SERGEANT,m29,basic,M,?
 486,u486,THE CADETS,m29,basic,unknown,?
@@ -640,7 +640,7 @@
 958,u958,JUDGE,m62,frances,A,?
 959,u959,JUDGE HILLIER'S WIFE,m62,frances,F,?
 960,u960,KAMINSKI,m62,frances,unknown,?
-961,u961,LAWYER,m62,frances,unknown,?
+961,u961,LAWYER,m62,frances,A,?
 963,u963,MAN,m62,frances,M,?
 964,u964,ODETS,m62,frances,unknown,?
 965,u965,OLDER NURSE,m62,frances,unknown,?
@@ -689,7 +689,7 @@
 1026,u1026,CAIMAN,m67,godzilla,unknown,?
 1027,u1027,ELSIE,m67,godzilla,F,?
 1028,u1028,JEAN-CLAUDE,m67,godzilla,unknown,?
-1029,u1029,KID,m67,godzilla,unknown,?
+1029,u1029,KID,m67,godzilla,A,?
 1030,u1030,LT. ANDERSON,m67,godzilla,unknown,?
 1031,u1031,LUCY,m67,godzilla,F,?
 1033,u1033,MAYOR,m67,godzilla,M,?
@@ -875,7 +875,7 @@
 1335,u1335,INTRUDER,m89,highlander,unknown,?
 1336,u1336,KAHN,m89,highlander,unknown,?
 1337,u1337,KATHERINE,m89,highlander,F,?
-1338,u1338,KIDELL,m89,highlander,unknown,?
+1338,u1338,KIDELL,m89,highlander,A,?
 1339,u1339,KNIGHT,m89,highlander,unknown,?
 1340,u1340,KNIGHT'S VOICE,m89,highlander,unknown,?
 1341,u1341,LIBRARIAN,m89,highlander,unknown,?
@@ -995,7 +995,7 @@
 1514,u1514,GANGSTER,m102,intolerable cruelty,unknown,?
 1515,u1515,JOE,m102,intolerable cruelty,M,?
 1516,u1516,JUDGE,m102,intolerable cruelty,A,?
-1518,u1518,LAWYER,m102,intolerable cruelty,unknown,?
+1518,u1518,LAWYER,m102,intolerable cruelty,A,?
 1521,u1521,PATRICIA,m102,intolerable cruelty,F,?
 1522,u1522,RAMONA,m102,intolerable cruelty,F,?
 1524,u1524,RUTH,m102,intolerable cruelty,F,?
@@ -1009,7 +1009,7 @@
 1536,u1536,ELLIE'S VOICE,m103,it happened one night,unknown,?
 1537,u1537,FIRST PILOT,m103,it happened one night,unknown,?
 1538,u1538,FIRST POLICEMAN,m103,it happened one night,unknown,?
-1540,u1540,GUARD,m103,it happened one night,unknown,?
+1540,u1540,GUARD,m103,it happened one night,A,?
 1541,u1541,KING,m103,it happened one night,M,?
 1542,u1542,LOVINGTON,m103,it happened one night,unknown,?
 1543,u1543,MAN,m103,it happened one night,M,?
@@ -1034,7 +1034,7 @@
 1567,u1567,JEAN HILL,m104,jfk,unknown,?
 1569,u1569,JOHNSON,m104,jfk,unknown,?
 1570,u1570,JUDGE HAGGERTY,m104,jfk,A,?
-1571,u1571,LAWYER,m104,jfk,unknown,?
+1571,u1571,LAWYER,m104,jfk,A,?
 1573,u1573,LONG,m104,jfk,unknown,?
 1575,u1575,MALE VOICE,m104,jfk,M,?
 1576,u1576,MAN,m104,jfk,M,?
@@ -1170,7 +1170,7 @@
 1766,u1766,DORKY DAVID,m117,legally blonde,unknown,?
 1769,u1769,ENRIQUE,m117,legally blonde,M,?
 1770,u1770,FUZZY 2L,m117,legally blonde,unknown,?
-1771,u1771,GUARD,m117,legally blonde,unknown,?
+1771,u1771,GUARD,m117,legally blonde,A,?
 1773,u1773,MRS. WINDHAM VANDERMARK,m117,legally blonde,M,?
 1775,u1775,PROFESSOR DONOVAN,m117,legally blonde,A,?
 1776,u1776,PROFESSOR STROMWELL,m117,legally blonde,A,?
@@ -1248,7 +1248,7 @@
 1874,u1874,DR. ROGOFF,m123,lost highway,A,?
 1875,u1875,DRIVER,m123,lost highway,unknown,?
 1876,u1876,ED,m123,lost highway,M,?
-1878,u1878,GUARD,m123,lost highway,unknown,?
+1878,u1878,GUARD,m123,lost highway,A,?
 1879,u1879,JOHNNY MACK,m123,lost highway,F,?
 1880,u1880,MARIAN,m123,lost highway,F,?
 1882,u1882,MYSTERY MAN,m123,lost highway,M,?
@@ -1321,7 +1321,7 @@
 1984,u1984,CREASY'S VOICE,m129,man on fire,unknown,?
 1985,u1985,CUSTOMS,m129,man on fire,unknown,?
 1986,u1986,DANIEL,m129,man on fire,A,?
-1987,u1987,GUARDIAN TWO,m129,man on fire,unknown,?
+1987,u1987,GUARDIAN TWO,m129,man on fire,A,?
 1988,u1988,JORDAN,m129,man on fire,A,?
 1989,u1989,JORGE,m129,man on fire,M,?
 1994,u1994,REINA,m129,man on fire,F,?
@@ -1386,8 +1386,8 @@
 2071,u2071,EMMA,m134,metropolis,F,?
 2072,u2072,GENA,m134,metropolis,F,?
 2073,u2073,HALDEN,m134,metropolis,unknown,?
-2075,u2075,KID,m134,metropolis,unknown,?
-2076,u2076,LAWYER,m134,metropolis,unknown,?
+2075,u2075,KID,m134,metropolis,A,?
+2076,u2076,LAWYER,m134,metropolis,A,?
 2077,u2077,SYNTHETIC VOICE,m134,metropolis,unknown,?
 2078,u2078,TANNER,m134,metropolis,M,?
 2079,u2079,ADAM,m135,mighty morphin power rangers,M,?
@@ -1535,7 +1535,7 @@
 2282,u2282,CLARY,m147,the night of the hunter,F,?
 2283,u2283,CONGREGATION,m147,the night of the hunter,unknown,?
 2284,u2284,GROCER,m147,the night of the hunter,unknown,?
-2285,u2285,GUARD,m147,the night of the hunter,unknown,?
+2285,u2285,GUARD,m147,the night of the hunter,A,?
 2289,u2289,PREACHER,m147,the night of the hunter,unknown,?
 2290,u2290,RACHEL COOPER,m147,the night of the hunter,unknown,?
 2291,u2291,RUBY,m147,the night of the hunter,A,?
@@ -1550,7 +1550,7 @@
 2306,u2306,GASTON,m149,ninotchka,M,?
 2307,u2307,GENERAL SAVITZKY,m149,ninotchka,unknown,?
 2308,u2308,HEADWAITER,m149,ninotchka,unknown,?
-2311,u2311,LAWYER,m149,ninotchka,unknown,?
+2311,u2311,LAWYER,m149,ninotchka,A,?
 2313,u2313,MANAGER,m149,ninotchka,F,?
 2316,u2316,PORTER,m149,ninotchka,M,?
 2317,u2317,PÈRE MATHIEU,m149,ninotchka,F,?
@@ -1588,7 +1588,7 @@
 2375,u2375,DOCTOR,m152,nurse betty,A,?
 2376,u2376,DUANE,m152,nurse betty,M,?
 2377,u2377,ELIZABETH,m152,nurse betty,F,?
-2380,u2380,GUARD,m152,nurse betty,unknown,?
+2380,u2380,GUARD,m152,nurse betty,A,?
 2381,u2381,JERROLD,m152,nurse betty,M,?
 2382,u2382,JOYCE,m152,nurse betty,F,?
 2383,u2383,LONNIE,m152,nurse betty,A,?
@@ -1650,7 +1650,7 @@
 2474,u2474,PINTEL,m159,pirates of the caribbean,unknown,?
 2475,u2475,SWANN,m159,pirates of the caribbean,unknown,?
 2477,u2477,ARGON,m160,plastic man,unknown,?
-2478,u2478,KID,m160,plastic man,unknown,?
+2478,u2478,KID,m160,plastic man,A,?
 2479,u2479,LITTERBUG,m160,plastic man,unknown,?
 2480,u2480,NEBBLEMAN,m160,plastic man,unknown,?
 2482,u2482,POPPY,m160,plastic man,F,?
@@ -1804,7 +1804,7 @@
 2714,u2714,DAD,m177,shock treatment,M,?
 2715,u2715,FARLEY,m177,shock treatment,M,?
 2716,u2716,JANET,m177,shock treatment,F,?
-2717,u2717,KIDS,m177,shock treatment,unknown,?
+2717,u2717,KIDS,m177,shock treatment,A,?
 2718,u2718,MAC,m177,shock treatment,M,?
 2719,u2719,MACY,m177,shock treatment,F,?
 2720,u2720,MOM,m177,shock treatment,F,?
@@ -1850,7 +1850,7 @@
 2773,u2773,HARRY,m181,simone,M,?
 2774,u2774,KENT,m181,simone,M,?
 2775,u2775,LAINEY,m181,simone,F,?
-2776,u2776,LAWYER,m181,simone,unknown,?
+2776,u2776,LAWYER,m181,simone,A,?
 2777,u2777,MAX,m181,simone,A,?
 2778,u2778,MILTON,m181,simone,M,?
 2779,u2779,NICOLA,m181,simone,F,?
@@ -2608,7 +2608,7 @@
 3931,u3931,WOODRUE,m260,batman and robin,unknown,?
 3936,u3936,DICK,m261,batman forever,M,?
 3937,u3937,EDWARD,m261,batman forever,M,?
-3938,u3938,GUARD,m261,batman forever,unknown,?
+3938,u3938,GUARD,m261,batman forever,A,?
 3939,u3939,RIDDLER,m261,batman forever,unknown,?
 3940,u3940,STICKLEY,m261,batman forever,unknown,?
 3941,u3941,TWO-FACE,m261,batman forever,unknown,?
@@ -2775,7 +2775,7 @@
 4182,u4182,ELEANOR,m279,the bridges of madison county,F,?
 4184,u4184,GLADYS,m279,the bridges of madison county,F,?
 4185,u4185,HENRY,m279,the bridges of madison county,M,?
-4186,u4186,LAWYER,m279,the bridges of madison county,unknown,?
+4186,u4186,LAWYER,m279,the bridges of madison county,A,?
 4187,u4187,MADGE,m279,the bridges of madison county,F,?
 4189,u4189,MOTHER,m279,the bridges of madison county,F,?
 4190,u4190,REPORTER,m279,the bridges of madison county,unknown,?
@@ -3043,7 +3043,7 @@
 4578,u4578,DMITRI,m302,collateral,M,?
 4579,u4579,HELLER,m302,collateral,unknown,?
 4580,u4580,IDA,m302,collateral,F,?
-4581,u4581,KID #1,m302,collateral,unknown,?
+4581,u4581,KID #1,m302,collateral,A,?
 4582,u4582,LENNY,m302,collateral,M,?
 4583,u4583,MAN,m302,collateral,M,?
 4585,u4585,MULDOON,m302,collateral,unknown,?
@@ -3052,7 +3052,7 @@
 4589,u4589,COP,m303,conspiracy theory,unknown,?
 4590,u4590,CYNIC,m303,conspiracy theory,unknown,?
 4591,u4591,FLIP,m303,conspiracy theory,unknown,?
-4594,u4594,LAWYER,m303,conspiracy theory,unknown,?
+4594,u4594,LAWYER,m303,conspiracy theory,A,?
 4597,u4597,OPERATOR,m303,conspiracy theory,unknown,?
 4598,u4598,WILSON,m303,conspiracy theory,M,?
 4599,u4599,A.T.L.,m304,contact,unknown,?
@@ -3438,7 +3438,7 @@
 5160,u5160,EARL,m342,the fabulous baker boys,M,?
 5162,u5162,GIRL,m342,the fabulous baker boys,F,?
 5163,u5163,HELEN,m342,the fabulous baker boys,F,?
-5165,u5165,KID,m342,the fabulous baker boys,unknown,?
+5165,u5165,KID,m342,the fabulous baker boys,A,?
 5166,u5166,LLOYD,m342,the fabulous baker boys,M,?
 5167,u5167,MONICA,m342,the fabulous baker boys,F,?
 5168,u5168,MR. DANIELS,m342,the fabulous baker boys,M,?
@@ -3762,7 +3762,7 @@
 5635,u5635,FRANK,m374,the grapes of wrath,A,?
 5636,u5636,GIRL,m374,the grapes of wrath,F,?
 5637,u5637,GRAMPA,m374,the grapes of wrath,unknown,?
-5638,u5638,GUARD,m374,the grapes of wrath,unknown,?
+5638,u5638,GUARD,m374,the grapes of wrath,A,?
 5639,u5639,JOHN,m374,the grapes of wrath,M,?
 5641,u5641,MAE,m374,the grapes of wrath,F,?
 5642,u5642,MIGRANT,m374,the grapes of wrath,unknown,?
@@ -3803,7 +3803,7 @@
 5692,u5692,GILL,m377,hackers,A,?
 5693,u5693,HAL,m377,hackers,M,?
 5694,u5694,JOEY,m377,hackers,A,?
-5696,u5696,KID,m377,hackers,unknown,?
+5696,u5696,KID,m377,hackers,A,?
 5698,u5698,MRS. MURPHY,m377,hackers,M,?
 5699,u5699,NIKON,m377,hackers,unknown,?
 5700,u5700,NORM,m377,hackers,M,?
@@ -4136,7 +4136,7 @@
 6195,u6195,POCKMARKED ANARCHIST,m413,kafka,unknown,?
 6197,u6197,DENHAM,m414,king kong,unknown,?
 6198,u6198,ENGLEHORN,m414,king kong,unknown,?
-6200,u6200,KID,m414,king kong,unknown,?
+6200,u6200,KID,m414,king kong,A,?
 6201,u6201,LORD DARROW,m414,king kong,M,?
 6202,u6202,MR GINTING,m414,king kong,M,?
 6203,u6203,ARLYN,m415,klute,F,?
@@ -4327,7 +4327,7 @@
 6482,u6482,DR. CHILTON,m431,manhunter,A,?
 6483,u6483,GRADUATE STUDENT,m431,manhunter,unknown,?
 6485,u6485,GRAMPA,m431,manhunter,unknown,?
-6486,u6486,GUARD,m431,manhunter,unknown,?
+6486,u6486,GUARD,m431,manhunter,A,?
 6491,u6491,OFFICER,m431,manhunter,unknown,?
 6493,u6493,RED DRAGON,m431,manhunter,unknown,?
 6494,u6494,SARAH,m431,manhunter,F,?
@@ -4419,7 +4419,7 @@
 6629,u6629,WALLIS,m442,mission: impossible ii,A,?
 6630,u6630,ANATOLY,m443,mission: impossible,M,?
 6631,u6631,BARNES,m443,mission: impossible,unknown,?
-6634,u6634,GUARD RANDALL,m443,mission: impossible,unknown,?
+6634,u6634,GUARD RANDALL,m443,mission: impossible,A,?
 6635,u6635,JACK,m443,mission: impossible,M,?
 6636,u6636,KASIMOV,m443,mission: impossible,unknown,?
 6638,u6638,KRIEGER,m443,mission: impossible,unknown,?
@@ -5157,7 +5157,7 @@
 7738,u7738,CLARENCE,m524,sounder,M,?
 7740,u7740,DAVID'S IMAGES,m524,sounder,unknown,?
 7741,u7741,EARL,m524,sounder,M,?
-7742,u7742,GUARD,m524,sounder,unknown,?
+7742,u7742,GUARD,m524,sounder,A,?
 7743,u7743,IKE,m524,sounder,A,?
 7744,u7744,JOSIE MAE,m524,sounder,F,?
 7745,u7745,MR HOWARD,m524,sounder,M,?
@@ -5431,8 +5431,8 @@
 8169,u8169,LARRY,m554,the relic,M,?
 8172,u8172,AGENT,m555,the truman show,unknown,?
 8174,u8174,DAUGHTER,m555,the truman show,F,?
-8175,u8175,GUARD 1,m555,the truman show,unknown,?
-8176,u8176,GUARD 2,m555,the truman show,unknown,?
+8175,u8175,GUARD 1,m555,the truman show,A,?
+8176,u8176,GUARD 2,m555,the truman show,A,?
 8178,u8178,LAUREN,m555,the truman show,A,?
 8181,u8181,MOTHER,m555,the truman show,F,?
 8182,u8182,NURSE,m555,the truman show,unknown,?
@@ -5698,7 +5698,7 @@
 8558,u8558,CLERK,m581,traffic,unknown,?
 8559,u8559,DAVID,m581,traffic,M,?
 8560,u8560,FRANCISCO,m581,traffic,M,?
-8562,u8562,GUARD,m581,traffic,unknown,?
+8562,u8562,GUARD,m581,traffic,A,?
 8564,u8564,JAVIER,m581,traffic,M,?
 8565,u8565,JOHNSON,m581,traffic,unknown,?
 8566,u8566,MANOLO,m581,traffic,F,?
@@ -5985,7 +5985,7 @@
 8987,u8987,PRESIDENT,m612,watchmen,unknown,?
 8989,u8989,SCHMIDT,m612,watchmen,unknown,?
 8992,u8992,JEFE,m613,xxx,unknown,?
-8993,u8993,KID,m613,xxx,unknown,?
+8993,u8993,KID,m613,xxx,A,?
 8995,u8995,SAM TANNICK,m613,xxx,unknown,?
 8996,u8996,SHAVERS,m613,xxx,unknown,?
 8997,u8997,SKY,m613,xxx,M,?
