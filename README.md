@@ -2,6 +2,8 @@
 Mack Campbell <br>
 mack.campbell@pitt.edu
 
+You can visit my guestbook [here](https://github.com/Data-Science-for-Linguists-2023/Class-Lounge/blob/main/guestbooks/mack.md).
+
 ## Overview
 This project will quantify how male and female characters are represented in the movies of the Cornell Movie Dialogue Corpus, highlighting both similarities and difference as they arise in each interaction. The corpus has movies from 1927 through 2010 so I will also look at diachronic variation.
 
