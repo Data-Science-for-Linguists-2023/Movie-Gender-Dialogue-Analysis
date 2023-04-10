@@ -30,3 +30,22 @@ The 'dialogue' column in the [`conversations_df`](./Conversations_Notebook.ipynb
 
 ### Other Updates:
 I updated my [README](./README.txt) to make navigating my repo easier and to provide better understanding of what my project is about.
+
+
+## 3rd Progress Report 04/09/2023
+### Created Data:
+I created a [new folder](./new_data/) where I have made csv files of my data objects. The exception is the csv from the utterances notebook, the file was too large to upload to GitHub so I kept the code to generate the csv file but commented it out. Similarly, I am still working on how best to handle the conversations from the corpus so there is no csv file for this data.
+
+### Data Progress:
+The same four notebook are in EXISTING status from my second progress report. I have added an [Analysis Notebook](./Analysis_Notebook.ipynb) that brings in all the data objects to analyze the data to answer my research questions.
+
+With Na-Rae's help I was able to work with the [Character Notebook](./Characters_Notebook.ipynb) to generate gender based on specific strings found in character names. This method, combined with using the NLTK names lists, I was able to add 3141 gender markers. One next step, although it is low priority, is to split the character name column, some characters have first and last names, and their first names may be able to be matched to a name in NLTK so I may be able to add more gender markers.
+
+I met with Emma to discuss the [Conversations Notebook](./Conversations_Notebook.ipynb), I am not sure how crucial this data is to my overall analysis. It organizes the lines from the [Utterances Notebook](./Utterances_Notebook.ipynb) into distinct conversations, but I may not go into this fine-grained of analysis.
+
+In the [Utterances Notebook](./Utterances_Notebook.ipynb) I added POS tags from NLTK to each utterance. I will look at several specific POS to see if there is any usage variation.
+
+### Next Steps:
+Continue analysis overall. Dive deeper into linguistic features, slice and dice to get different views, create some graphs to visualize the data. Look closer at tokens and sentences per movie decade to see how they change over time. Cursory glance looks like there are more differences by decade than at the total level, so that could be revealing.
+
+Look into doing a linear regression on `movie_decade` and `sentence_count` or  `token_count` to see if there are consistent patterns over time.
