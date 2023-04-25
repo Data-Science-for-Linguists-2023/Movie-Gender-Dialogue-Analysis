@@ -10,7 +10,7 @@ This project will quantify how male and female characters are represented in the
 The data come from the [Cornell Movie-Dialogue Corpus](https://convokit.cornell.edu/documentation/movie.html) and can be found in this repo [here](./data). The corpus has a [README](./data/README.txt) to help understand its structure and contents.
 
 ## Directory
-* [`**final_report.md**`](./final_report.md) is the write-up of my final report
+* [`final_report.md`](./final_report.md) is the write-up of my final report
 * [`data/`](./data/) houses the original Cornell Movie-Dialogue Corpus Data
 * [`new_data/`](./new_data/) contains my re-working of the data as `.csv` files
 * [`data_visualization/`](./data_visualization/) has `.png` files of all graphs
